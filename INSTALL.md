@@ -1,3 +1,5 @@
 # Installation instructions
 
-Detailed instructions on how to install, configure, and get the project running.
+1. Run `uv sync`
+
+2. To run the topoflow-glacier example run `uv run python examples/run_topoflow_glacier.py`

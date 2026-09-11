@@ -1,0 +1,17 @@
+site_prefix: cat-3062920
+forcing_file: data/cat-3062920.csv
+dt: 1
+start_time: "2013032000"
+end_time: "2013040500"
+da: 11.418749923500716
+slope: 88.582729
+aspect: 242.8644693769529
+lon: -121.81418
+lat: 46.81953220
+elev: 2446.3922737596167  # meters
+h_active_layer: 0.125 # Assuming wolverine glacier value
+h0_snow: 5.0  # Assuming wolverine glacier value (related to SWE through density)
+h0_ice: 2.0  # Assuming wolverine glacier value (related to IWE through density)
+h0_swe: 0.25  # Assuming wolverine glacier value
+h0_iwe: 1.834  # Assuming wolverine glacier value
+T_rain_snow: 0.0  # air temperature that the precip converts to snow (degree C)

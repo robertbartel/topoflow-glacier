@@ -1,0 +1,25 @@
+--
+This file contains the glacier module of the Topoflow routing framework to be used in the NextGen Modeling framework. Credit to the authors of:
+- https://github.com/peckhams/topoflow36
+
+This code is made available under an MIT License
+
+Citation:
+Peckham, S. D., M. Stoica, E. Jafarov,A. Endalamaw, and W. R. Bolton (2017),Reproducible, component-basedmodeling with TopoFlow, a spatialhydrologic modeling toolkit, Earthand Space Science, 4, 377–394,doi:10.1002/2016ea000237.
+
+--
+This file is based on the hydrofabric_fixes branch of the https://github.com/NOAA-OWP/topoflow repo. Credit to Lauren Bolotin and all authors
+
+--
+The BMIBase class is modified from from https://github.com/hellkite500/bmi_pytorch/blob/main/bmi_sdk/bmi_sdk/bmi_minimal.py via MIT license
+
+--
+The BMI implementation of TopoFlow-Glacier was heavily influenced by, and contains modified code for Model States from, the https://github.com/NOAA-OWP/lstm repo. Credit to all developers and authors. (Apache-2 License)
+
+--
+The Hydrofabric data used in this repo is credited to Lynker and its contributors
+
+Johnson, J. M. (2022). National Hydrologic Geospatial Fabric (hydrofabric) for the Next Generation (NextGen) Hydrologic Modeling Framework,
+HydroShare http://www.hydroshare.org/resource/129787b468aa4d55ace7b124ed27dbde
+
+--
